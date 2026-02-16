@@ -16,11 +16,8 @@ I'm building a **Web Architecture for Concurrent LLM Querying**.
 * 🇺🇸 **Summer 2026:** I’ll be in the United States to fully immerse myself in a professional English environment.
 * 💼 **October 2026:** I'm open to international opportunities in **Solutions Engineering, Backend Development, or Technical Project Management.**
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/freddytorrescabrera/)
+- **Connect with me:** [LinkedIn](https://www.linkedin.com/in/freddytorrescabrera/)
 ---
-
-### 💻 Tech Stack
-`Python` • `FastAPI` • `Asyncio` • `SQL` • `Docker` • `Streamlit` • `Git`
 
 **Programming Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
