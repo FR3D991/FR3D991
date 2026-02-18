@@ -12,10 +12,6 @@ I'm building a **Web Architecture for Concurrent LLM Querying**.
 * **Cellnex Telecom (1.5 years):** Worked as a Technical Account Engineer. I managed technical feasibility studies and supported the sales team by preparing technical proposals for large-scale infrastructure projects.
 * **Education:** B.Sc. in Telecommunications Systems Engineering - EETAC - UPC.
 
-### - What's Next?
-*  **Summer 2026:** I’ll be in the United States to fully immerse myself in a professional English environment.
-*  **October 2026:** I'm open to international opportunities in **Solutions Engineering, Backend Development, or Technical Project Management.**
-
 - **Connect with me:** [LinkedIn](https://www.linkedin.com/in/freddytorrescabrera/)
 ---
 
