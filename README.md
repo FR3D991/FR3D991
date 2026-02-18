@@ -1,6 +1,6 @@
-# Freddy Joel Torres Cabrera 📡
+# Freddy Joel Torres Cabrera
 
-Telecommunications Engineer from **UPC (Barcelona)**. I'm a Telecommunications Engineer with a background in Technical Account Management at Cellnex. I enjoy building systems where engineering meets business strategy
+I enjoy building systems where engineering meets business strategy
 
 ### - Current Focus: My Bachelor's Thesis (TFG)
 I'm building a **Web Architecture for Concurrent LLM Querying**.
