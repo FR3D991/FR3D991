@@ -14,7 +14,7 @@ I'm building a **Web Architecture for Concurrent LLM Querying**, focusing on hig
 * **Cellnex Telecom (1.5 years):** Worked as a Technical Account Engineer. I managed technical feasibility studies and supported the sales team by preparing technical proposals for large-scale infrastructure projects.
 
 ### - Education
-* **M.Sc. in Applied Telecomunications and Engineering Management (MASTEAM)** - EETAC - UPC.
+* **M.Sc. in Applied Telecomunications and Engineering Management (MASTEAM)** - EETAC - UPC **(Currently Enrolled)**
 * **B.Sc. in Telecommunications Systems Engineering** - EETAC - UPC.
 
 - **Connect with me:** [LinkedIn](https://www.linkedin.com/in/freddytorrescabrera/)
