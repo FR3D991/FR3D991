@@ -2,7 +2,8 @@
 
 I enjoy building systems where engineering meets business strategy
 
-🚀Highlighted Project: Bachelor's Thesis (TFG) — Graded 9.1/10Web Architecture for Concurrent LLM Querying, focusing on high performance and sustainable AI practices.
+🚀Highlighted Project: Bachelor's Thesis (TFG) — Graded 9.1/10
+Web Architecture for Concurrent LLM Querying, focusing on high performance and sustainable AI practices.
 
 * **The Problem:** Sequential API calls to multiple LLMs (OpenAI, DeepSeek, Llama) are slow and inefficient for real-time comparisons.
 * **My Solution:** Developed an asynchronous backend orchestrator using **FastAPI** and **Asyncio** to handle parallel requests. 
