@@ -2,8 +2,7 @@
 
 I enjoy building systems where engineering meets business strategy
 
-### Current Focus: My Bachelor's Thesis (TFG)
-I'm building a **Web Architecture for Concurrent LLM Querying**, focusing on high performance and sustainable AI practices.
+🚀Highlighted Project: Bachelor's Thesis (TFG) — Graded 9.1/10Web Architecture for Concurrent LLM Querying, focusing on high performance and sustainable AI practices.
 
 * **The Problem:** Sequential API calls to multiple LLMs (OpenAI, DeepSeek, Llama) are slow and inefficient for real-time comparisons.
 * **My Solution:** Developed an asynchronous backend orchestrator using **FastAPI** and **Asyncio** to handle parallel requests. 
@@ -16,6 +15,7 @@ I'm building a **Web Architecture for Concurrent LLM Querying**, focusing on hig
 ### - Education
 * **M.Sc. in Applied Telecomunications and Engineering Management (MASTEAM)** - EETAC - UPC **(Currently Enrolled)**
 * **B.Sc. in Telecommunications Systems Engineering** - EETAC - UPC.
+* **Languages**: Advanced English (Including a 2-month linguistic immersion in the USA).
 
 - **Connect with me:** [LinkedIn](https://www.linkedin.com/in/freddytorrescabrera/)
 ---
